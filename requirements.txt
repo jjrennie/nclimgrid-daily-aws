@@ -3,3 +3,5 @@ numpy
 xarray
 matplotlib
 cartopy
+h5netcdf
+h5py
